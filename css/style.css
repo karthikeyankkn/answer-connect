@@ -1,0 +1,113 @@
+
+.size{
+	width: 500px;
+	margin:auto;
+	margin-top: 20px;
+}
+.logo img{
+    vertical-align: middle;
+    display: block;
+    margin: auto;
+}
+.loginpage{
+	margin:auto;
+	display: block;
+	margin-top: 30px;
+	font-size: 27px;
+	text-align: center;
+}
+.mail input{
+	display: block;
+    margin: auto;
+    margin-top: 25px;
+    width: 400px;
+    padding: 20px;
+    border-radius: 15px;
+    color: #adadad !important;
+    background-color: #fff;
+    border: 1px solid #adadad;
+    font-size: 24px;
+    letter-spacing: 1px;
+     outline: none;
+}
+.mail input:hover{
+    border: 1px solid red;
+}
+.password input {
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    background-color: #fafafa;
+    width: 400px;
+    padding: 20px;
+    border-radius: 15px;
+    color:#adadad !important;
+    border: 1px solid #fafafa !important;
+    font-size: 24px;
+    letter-spacing: 1px;
+}
+.password input:hover{
+    border: 1px solid #adadad !important;
+}
+.login button{
+    display: block;
+    text-align: center;
+    margin: auto;
+    margin-top: 25px;
+    width: 400px;
+    padding: 20px;
+    border-radius: 15px;
+    color:#adadad !important;
+    background-color: #fff;
+    cursor: pointer;
+    border: 1px solid #adadad;
+    font-size: 24px;
+    letter-spacing: 1px;
+     outline: none;
+}
+.or h1{
+    display: block;
+    margin: auto;
+    text-align: center;
+    margin-top: 25px;
+    width: 400px;
+    padding: 23px;
+    border-radius: 15px;
+    color: #adadad;
+    background-color: #fff;
+    border: none;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+.google{
+    color: red;
+    font-size: 40px !important;
+    margin-left: 70px;
+    border-right: 3px solid #e9e9e9;
+    padding-right: 60px;
+    margin-top: 20px;
+}
+.facebook{
+    color:#315a96;
+    font-size: 40px !important;
+    border-right: 3px solid #e9e9e9;
+    padding-right: 30px;
+    padding-left: 21px;
+    margin-top: 20px;
+}
+.twitter{
+    color:#37abed;
+    font-size: 40px !important;
+    margin-right: 100px;
+    margin-top: 20px;
+}
+.icons{
+    margin: auto;
+    text-align: center;
+}
+.footer h2{
+    font-size: 28px;
+    margin: auto;
+    text-align: center;
+    margin-top: 80px;
+    color: #565a5b;
